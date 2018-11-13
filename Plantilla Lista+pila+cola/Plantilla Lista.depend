@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1489105962 source:c:\users\dgome\dropbox\udg\2017-a\i5886 edd\ejemplos de clase\plantilla lista\main.cpp
+	<iostream>
+	"Lista.h"
+	"Class1.h"
+
+1489106024 c:\users\dgome\dropbox\udg\2017-a\i5886 edd\ejemplos de clase\plantilla lista\include\lista.h
+	<iostream>
+
+1486079735 source:c:\users\dgome\dropbox\udg\2017-a\i5886 edd\ejemplos de clase\plantilla lista\src\lista.cpp
+
+1489105748 source:c:\users\dgome\dropbox\udg\2017-a\i5886 edd\ejemplos de clase\plantilla lista\src\class1.cpp
+	"Class1.h"
+	<sstream>
+
+1489105577 c:\users\dgome\dropbox\udg\2017-a\i5886 edd\ejemplos de clase\plantilla lista\include\class1.h
+	<string>
+
+1489106043 source:c:\users\joshcorona\documents\udg cucei\2do semestre\estructura\plantillas\plantilla lista+pila+cola\main.cpp
+	<iostream>
+	"Lista.h"
+	"Class1.h"
+
+1489106024 c:\users\joshcorona\documents\udg cucei\2do semestre\estructura\plantillas\plantilla lista+pila+cola\include\lista.h
+	<iostream>
+
+1489105577 c:\users\joshcorona\documents\udg cucei\2do semestre\estructura\plantillas\plantilla lista+pila+cola\include\class1.h
+	<string>
+
+1489105748 source:c:\users\joshcorona\documents\udg cucei\2do semestre\estructura\plantillas\plantilla lista+pila+cola\src\class1.cpp
+	"Class1.h"
+	<sstream>
+
+1486079735 source:c:\users\joshcorona\documents\udg cucei\2do semestre\estructura\plantillas\plantilla lista+pila+cola\src\lista.cpp
+
